@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate **Cybersecurity Expert** and **AI Enthusiast**. I love working with cutting-edge technologies and constantly expanding my knowledge in areas like **Artificial General Intelligence (AGI)**, **Machine Learning**, and **Cybersecurity**. 
 
 # 💫 About Me:
-🔭 I’m currently working on CYS<br>👯 I’m looking to collaborate on CYS<br>🤝 I’m looking for help with Algorithms.<br>🌱 I’m currently learning Machine learning and artificial intelligence.<br>💬 Myself Rohan Naagar<br>⚡ Nothing is finite
+⚡Founder- RxpexInfinity<br>🔭 I’m currently working on RxpexInfinity<br>👯 I’m looking to collaborate on RxpexInfinity<br>🤝 I’m looking for help with Algorithms.<br>🌱 I’m currently learning Machine learning and artificial intelligence.<br>💬 Myself Rohan Naagar<br>⚡ Nothing is finite
 
 
 ## 🌐 Socials:
