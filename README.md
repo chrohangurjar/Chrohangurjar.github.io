@@ -1,3 +1,24 @@
+--- 🚀 **Welcome to my Profile !** 💻 👨‍💻 Passionate about coding, cybersecurity, and building innovative solutions! 🌐 Founder of **℞pex∞**, a tech company focused on cutting-edge cybersecurity strategies. 🎮 BGMI player | 📚 Lifelong learner | 🌍 Exploring Artificial Intelligence & General Intelligence. 🔧 Currently learning **Rust**, building secure apps, and contributing to open-source projects! 📂 Check out my repositories for cool projects in **Cybersecurity**, **AI**, and **Web Development**. 📫 Feel free to reach out: [LinkedIn](#) | [Twitter](#) | [Email](#) ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 👋 Hi, I'm Rohan Naagar
 
 Welcome to my GitHub profile! I'm a passionate **Cybersecurity Expert** and **AI Enthusiast**. I love working with cutting-edge technologies and constantly expanding my knowledge in areas like **Artificial General Intelligence (AGI)**, **Machine Learning**, and **Cybersecurity**. 
