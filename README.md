@@ -1,7 +1,6 @@
-
 # 👋 Hi, I'm Rohan Naagar
 
-Welcome to my GitHub profile! I'm a passionate **Cybersecurity Expert** and **AI Enthusiast**. I love working with cutting-edge technologies and constantly expanding my knowledge in areas like **Artificial General Intelligence (AGI)**, **Machine Learning**, and **Cybersecurity**. 
+Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and **AI Enthusiast**. I love working with cutting-edge technologies and constantly expanding my knowledge in areas like **Artificial General Intelligence (AGI)**, **Machine Learning**, and **Cybersecurity**. 
 
 # 💫 About Me:
 ⚡Founder- RxpexInfinity<br>🔭 I’m currently working on RxpexInfinity<br>👯 I’m looking to collaborate on RxpexInfinity<br>🤝 I’m looking for help with Algorithms.<br>🌱 I’m currently learning Machine learning and artificial intelligence.<br>💬 Myself Rohan Naagar<br>⚡ Nothing is finite
@@ -20,12 +19,22 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Expert** and **AI
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## 🌟 Contributors
+
+We want to give a huge shoutout to everyone who has contributed to the project! 🙌 Your hard work and dedication help make these repo's better every day. 💪
+
+<a href="https://github.com/chrohangurjar1/RustWeatherApp/graphs/contributors">
+  <img alt="RustWeatherApp contributors" height='48' src="https://contrib.rocks/image?repo=chrohangurjar1/RustWeatherApp&columns=24" />
+</a>
+
+🎉 Thank you all for your amazing contributions! Let's keep building together. 🚀
 ---
-[![](https://visitcount.itsvg.in/api?id=chrohangurjar1&icon=2&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/RohanNaagar) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+---
+[![](https://visitcount.itsvg.in/api?id=chrohangurjar1&icon=2&color=0)](https://visitcount.itsvg.in)
+---
