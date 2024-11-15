@@ -1,7 +1,7 @@
 
 # 👋 Welcome to My GitHub Universe! 🚀  
 
-Hey there! I'm **Rohan Naagar**, a passionate **Cybersecurity Engineer**, **IT Expert**, and tech enthusiast based in **Faridabad, India**. 🌏  
+Hey there! I'm **Rohan Naagar**, a passionate **Cybersecurity Engineer**, **IT Expert**, and tech enthusiast based in **Gurgaon, India**. 🌏  
 I believe in creating innovative solutions that empower individuals and businesses to thrive in a tech-driven world. 🌟  
 
 Here, you'll find my journey through code, from **cybersecurity projects** 🔐 to **cutting-edge development tools** 💻. Whether it's securing systems, crafting elegant solutions, or exploring new technologies, I'm always up for a challenge!  
