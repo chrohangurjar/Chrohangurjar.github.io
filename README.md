@@ -1,4 +1,5 @@
-![Logo](logoyt.jpg)
+![Logo](https://raw.githubusercontent.com/chrohangurjar/chrohangurjar.github.io/c827891791293e6c2b24e8efb7ca5d1a7b0429d7/Rohan%20Naagar/assets/img/logoyt.jpg)
+
 
 # 👋 Welcome to My GitHub Universe! 🚀  
 
